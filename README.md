@@ -1,3 +1,3 @@
 # random
 
-hiiiii
+this is the first working website i made :)
